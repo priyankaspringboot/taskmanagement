@@ -1,2 +1,1 @@
-                 Spring Security    Basic Auth :   user : user
-                                                   Password : user
+Services : Add Task, Get Task, Update Task, Delete Task
